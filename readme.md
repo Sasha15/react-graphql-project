@@ -1,1 +1,0 @@
-# Advanced React & GraphQL Tutorial by WesBos
